@@ -1,2 +1,2 @@
-# Learn_JavaScript-
+# Learn_JavaScript
 a learning code repo
