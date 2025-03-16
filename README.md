@@ -1,2 +1,2 @@
-# Revolutionary_JavaScript-
-a normal code repo
+# Learn_JavaScript-
+a learning code repo
